@@ -1,4 +1,4 @@
-# AnalyzingFeatureExtractors
+# Analyzing Feature Extractors
 Official repository of the paper "Analyzing the Feature Extractor Networks for Face Image Synthesis"
 
 This repository contains added/modified codes from 3 different repositories;
@@ -16,4 +16,5 @@ The experiments were done in three steps (excluding the face generation or downs
 In addition to these, PacMAP plots are created with the pacmap_plots.py file.
 
 For the environment, the current situation can be explained only this -> https://www.reddit.com/r/ProgrammerHumor/comments/8pdebc/only_god_and_i_knew/
-I used two environments following StyleGAN3 and Role of Imagenet Classes in FID repositories. StyleGAN3 repository was not modified, the remaining libraries including PacMAP or CleanFID's dependencies were installed in the other repository.
+
+Joke aside, I used two environments following StyleGAN3 and Role of Imagenet Classes in FID repositories. StyleGAN3 repository was not modified, the remaining libraries including PacMAP or CleanFID's dependencies were installed in the other repository.
