@@ -22,4 +22,5 @@ Joke aside, I used two environments following StyleGAN3 and Role of Imagenet Cla
 
 # TODOs
 Add comments to where the modifications are made
+
 Add a jupyter notebook file for demonstration
